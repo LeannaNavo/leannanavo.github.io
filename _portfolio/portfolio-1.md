@@ -69,7 +69,7 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
     alt="Transformed Land"
-    width="675"
+    width="700"
     style="height: auto;">
 
     ![Transformed Road](/images/roads.png)
