@@ -8,14 +8,14 @@ collection: portfolio
 
 How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2024 been associated with threats to coral reef health?
 
-### Final Maps (Gif) 
+#### Final Maps (Gif) 
 
 <img
   src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/coralthreatened.gif"
   alt="Threatened Coral"
   width="400">
 
-### Quantified Yearly Threats to Coral Health
+#### Quantified Yearly Threats to Coral Health
 
 | Year | Percent of Coral Threatened |
 |------|-----------------------------|
@@ -25,7 +25,7 @@ How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2
 | 2022 | 23.0                        |
 | 2024 | 85.7                        |
 
-### Tools Used
+#### Tools Used
 
 * Eliminate Polygon Part Tool
 * Select by Attributes
