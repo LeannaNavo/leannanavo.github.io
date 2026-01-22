@@ -24,3 +24,22 @@ How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2
 | 2020 | 23.0                        |
 | 2022 | 23.0                        |
 | 2024 | 85.7                        |
+
+### Tools Used
+
+* Eliminate Polygon Part Tool
+* Select by Attributes
+* Clip
+* Polygon to Raster
+* Make Multidimensional Raster Layer
+* Aggregate Multidimensional Raster
+* Reclassify
+* Resample
+* Raster Calculator
+* Gif Animator
+
+Data Sources:
+
+NOAA
+
+Florida Fish and Wildlife Conservation Commission
