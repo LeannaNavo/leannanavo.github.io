@@ -1,6 +1,6 @@
 ---
 title: "Habitat Suitability Analysis for Puma concolor coryi"
-excerpt: "Click the link above for more details<br/><img src='/images/suitability.png'>"
+excerpt: "Click the link above for more details <br/><img src='/images/suitability.png' width='395'>"
 collection: portfolio
 ---
 
