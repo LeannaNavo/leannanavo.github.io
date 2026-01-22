@@ -14,6 +14,7 @@ How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2
   src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/coralthreatened.gif"
   alt="Threatened Coral"
   width="400">
+  Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°
 
 #### Quantified Yearly Threats to Coral Health
 
