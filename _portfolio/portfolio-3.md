@@ -12,11 +12,11 @@ What is the association between incinerator locations and rates of asthma in Flo
 
 ![Asthma rates map](/images/asthmarates.jpg)
 
-![Asthma hotspots map](/assets/images/asthmahotspots.jpg)
+![Asthma hotspots map](/images/asthmahotspots.jpg)
 
-![Air polluting facil map](/assets/images/air_polluting_rates.png)
+![Air polluting facil map](/images/air_polluting_rates.png)
 
-![Air polluting facil hot spots map](/assets/images/air_polluting_hotspots.png)
+![Air polluting facil hot spots map](/images/air_polluting_hotspots.png)
 
-![Asthma Line Graph](/assets/images/asthmaline.png)
+![Asthma Line Graph](/images/asthmaline.png)
 Association between number of asthma hospitalizations and number of incinerators in Florida countie
