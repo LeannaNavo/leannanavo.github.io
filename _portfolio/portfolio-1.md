@@ -72,8 +72,19 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
     width="400"
     style="height: auto;">
 
-    ![Transformed Road](/images/roads.png)
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/roads.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
 
-    ![Transformed Road](/images/stormsurge.png)
-
-    ![Transformed Road](/images/vegetation.png)
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/stormsurge.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/vegetation.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
