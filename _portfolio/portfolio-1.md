@@ -63,3 +63,17 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 1. Distance to Roadways- 30%
 1. Vegetation Condition- 20%
 1. Storm Surge Risk- 15%
+
+#### Transformed Maps for Suitability Modeler 
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
+    alt="Transformed Land"
+    width="675"
+    style="height: auto;">
+
+    ![Transformed Road](/images/roads.png)
+
+    ![Transformed Road](/images/stormsurge.png)
+
+    ![Transformed Road](/images/vegetation.png)
