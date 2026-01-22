@@ -17,7 +17,7 @@ How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2
   Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°
 
 <figure>
-  <img src="[photo.jpg](https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/coralthreatened.gif)" alt="Threatened coral">
+  <img src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/coralthreatened.gif" alt="Threatened coral">
   <figcaption> Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°</figcaption>
 </figure>
 
