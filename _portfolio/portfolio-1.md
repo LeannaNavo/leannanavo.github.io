@@ -83,8 +83,17 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/vegetation.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
+
+#### Suitability Model
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/suitability.png"
     alt="Transformed Land"
     width="400"
     style="height: auto;">
