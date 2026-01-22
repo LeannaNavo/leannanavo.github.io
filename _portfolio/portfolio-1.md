@@ -64,7 +64,7 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 1. Vegetation Condition- 20%
 1. Storm Surge Risk- 15%
 
-#### Transformed Maps for Suitability Modeler 
+### Transformed Maps for Suitability Modeler 
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
@@ -90,10 +90,31 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
     width="400"
     style="height: auto;">
 
-#### Suitability Model
+### Suitability Model
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/suitability.png"
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
+### Tools Used
+
+* Euclidean Distance
+* Clip Raster
+* Reclassify Raster
+* Suitability Modeler
+* Raster Calculator
+* Polygon to Raster Calculator
+
+Data Sources:
+
+Florida Department of Transportation
+
+USDA Farm Services Agency
+
+National Land Cover Database
+
+NOAA Hurricane Center
+
+
