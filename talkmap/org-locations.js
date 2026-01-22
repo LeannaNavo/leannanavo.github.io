@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "UMiami News Article<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "UMiami News Article<br />UC San Francisco, Department of Testing; Coral Gables, FL, USA",
+    25.7331105,
+    -80.2585107
   ]
 ];
