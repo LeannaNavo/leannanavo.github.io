@@ -191,6 +191,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - cv.md
+  - talks.md
 keep_files:
   - .git
   - .svn
