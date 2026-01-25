@@ -8,7 +8,7 @@ collection: portfolio
 
 Where are critical areas of protection, restoration, expansion, or reintroduction for Florida Panthers?
 
-#### Reclassification Table
+### Reclassification Table
 
 <table class="suitability-table">
   <thead>
@@ -57,14 +57,14 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
   </tbody>
 </table>
 
-#### Weights
+### Weights
 
 1. Land Cover- 35%
 1. Distance to Roadways- 30%
 1. Vegetation Condition- 20%
 1. Storm Surge Risk- 15%
 
-#### Transformed Maps for Suitability Modeler 
+### Transformed Maps for Suitability Modeler 
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
@@ -90,7 +90,7 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
     width="400"
     style="height: auto;">
 
-#### Suitability Model
+### Suitability Model
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/suitability.png"
@@ -98,7 +98,7 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
     width="400"
     style="height: auto;">
 
-#### Tools Used
+### Tools Used
 
 * Euclidean Distance
 * Clip Raster
@@ -107,6 +107,7 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 * Raster Calculator
 * Polygon to Raster Calculator
 
+***
 
 Data Sources:
 
