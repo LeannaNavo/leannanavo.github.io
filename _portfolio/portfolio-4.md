@@ -4,7 +4,7 @@ excerpt: "Click the link above for more details <br/><img src='/images/CO2e_kg_t
 collection: portfolio
 ---
 
-My research team is collaborating with a reverse logistics company to publish a paper on material flows in the circular economy. We gathered a large dataset consisting of 2.5 years of data and more than 23,000 shipments. I have used python code to extract spatial and temporal patterns from the dataset as well as make graphical and cartographic figures. Statistical analyses are forthcoming.
+My research team is collaborating with a reverse logistics company to publish a paper on material flows in the circular economy. We compiled a large dataset spanning 2.5 years and more than 23,000 shipments. I have used Python to extract spatial and temporal patterns from the data and to create graphical and cartographic visualizations. Statistical analyses are currently underway.
 
 ## Total Weight of Shipments, Aggregated by County for 2025
 
