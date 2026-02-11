@@ -6,13 +6,15 @@ collection: portfolio
 
 My research team is collaborating with a reverse logistics company to publish a paper on material flows in the circular economy. We gathered a large dataset consisting of 2.5 years of data and more than 23,000 shipments. I have used python code to extract spatial and temporal patterns from the dataset as well as make graphical and cartographic figures. Statistical analyses are forthcoming.
 
-CO2e kg Data by County 
+## Total Weight of Shipments, Aggregated by County for 2025
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/Weight_lbs_total_2025_choropleth_county_contiguous_us.jpeg"
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
+## Total Weight of all Shipments by Season 
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/monthly_weight_trend.jpeg"
