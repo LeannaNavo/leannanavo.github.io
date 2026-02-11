@@ -5,3 +5,9 @@ collection: portfolio
 ---
 
 My research team is collaborating with a reverse logistics company to publish a paper on material flows in the circular economy. We gathered a large dataset consisting of 2.5 years of data and more than 23,000 shipments. I have used python code to extract spatial and temporal patterns from the dataset as well as make graphical and cartographic figures. Statistical analyses are forthcoming.
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
