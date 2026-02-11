@@ -9,13 +9,13 @@ My research team is collaborating with a reverse logistics company to publish a 
 CO2e kg Data by County 
 
 <img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/CO2e_kg_total_2024_choropleth_county_contiguous_us.jpeg"
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/Weight_lbs_total_2025_choropleth_county_contiguous_us.jpeg"
     alt="Transformed Land"
     width="400"
     style="height: auto;">
 
 <img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/monthly_co2_trend.jpeg"
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/monthly_weight_trend.jpeg"
     alt="Transformed Land"
     width="400"
     style="height: auto;">
