@@ -1,6 +1,6 @@
 ---
 title: "Aggregated Shipment Data for Reverse Logistics Company"
-excerpt: "Click the link above for more details <br/><img src='/images/CO2e_kg_total_2024_choropleth_county_contiguous_us.jpeg' width='395'>"
+excerpt: "Click the link above for more details <br/><img src='/images/Weight_lbs_total_2025_choropleth_county_contiguous_us.jpeg' width='395'>"
 collection: portfolio
 ---
 
