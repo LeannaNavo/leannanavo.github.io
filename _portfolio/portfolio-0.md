@@ -1,7 +1,4 @@
----
-title: "Spatial Analysis of Capital Bikeshare Access and Metrorail Ridership in Washington, DC"
-excerpt: "Click the link above for more details <br/><img src='/images/suitability.png' width='395'>"
-collection: portfolio
+
 This project uses GIS to quantify bikeshare accessibility at WMATA Metrorail stations and examine its relationship with station‑level Metro ridership. Using buffer analysis and spatial joins, I constructed a monthly panel dataset linking bikeshare usage to transit demand. The dataset was then used in spatial econometric models to assess how bikeshare activity and station centrality influence ridership patterns.
 
 Workflow:
