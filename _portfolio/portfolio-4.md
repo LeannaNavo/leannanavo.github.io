@@ -16,7 +16,7 @@ My research team is collaborating with a reverse logistics company to publish a 
 ## Shipment Data by Month/Season
 
 <img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/monthly_weight_trend.jpeg"
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/combined_monthly_trends%20(5)%20(1).jpeg"
     alt="Transformed Land"
     width="400"
     style="height: auto;">
