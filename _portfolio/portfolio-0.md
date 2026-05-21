@@ -10,9 +10,11 @@ Created 0.25‑mile buffers around Metrorail stations
 * Walkable access distance
 * Represents station catchment areas
 
-<figure>
-  <img src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/wmatamap.jpg" alt="Threatened coral">
-</figure>
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/wmatamap.jpg"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
 
 ### Step 2: Spatially linking datasets
 Performed one‑to‑many spatial join
@@ -29,6 +31,12 @@ Integrated:
 * GIS‑derived CaBi variable
 * Time variables
 * Controls (temperature, gas price, etc.)
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/DataPreview.jpg"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
 
 ---
 
