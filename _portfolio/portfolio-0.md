@@ -10,7 +10,6 @@ Created 0.25‑mile buffers around Metrorail stations
 
 <figure>
   <img src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/wmatamap.jpg" alt="Threatened coral">
-  <figcaption> Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°</figcaption>
 </figure>
 
 ### Step 2: Spatially linking datasets
