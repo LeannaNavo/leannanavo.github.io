@@ -38,3 +38,11 @@ The GIS workflow transformed raw bikeshare and transit data into a station‑lev
 * ArcGIS Pro (buffers, spatial join, summary statistics)
 * Excel (data cleaning)
 * Stata
+
+Data Sources:
+
+Washington Metropolitan Area Transportation Authority 
+
+Capital Bikeshare 
+
+
