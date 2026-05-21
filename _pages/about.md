@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my GIS portfolio! My name is Leanna Navo and I'm a senior at the University of Miami, triple majoring in Ecosystem Science & Policy, Geography & Sustainable Development, and Spanish. I’ve developed a strong interest in hydrogeology through my internship with Miami-Dade County Water and Sewer Department’s Hydrotechnical Services Division that took place from May to December of 2025. My internship exposed me to the relevance of GIS in natural resource management and engineering matters, from tracking saltwater intrusion to fulfilling regulatory obligations. Together with county geologists and consultants, I had the opportunity to explore real-world applications for GIS. I’m ready to get to mapping with a purpose!
+Hello and welcome to my GIS portfolio! My name is Leanna Navo, and I am a recent graduate of the University of Miami, where I triple majored in Ecosystem Science & Policy, Geography & Sustainable Development, and Spanish. I developed a strong interest in hydrogeology through my internship with the Miami-Dade County Water and Sewer Department’s Hydrotechnical Services Division from May to December 2025. This experience exposed me to the critical role of GIS in natural resource management and engineering applications, from tracking saltwater intrusion to supporting regulatory efforts. Working alongside county geologists and consultants, I gained valuable insight into real-world applications of GIS and developed a passion for using geospatial tools to address environmental challenges. I’m excited to continue applying these skills—and to keep mapping with a purpose.
+
 
 *** 
 
-> “Always say “yes” to the present moment. What could be more futile, more insane, than to create inner resistance to what already is? What could be more insane than to oppose life itself, which is now and always now? Surrender to what is. Say “yes” to life — and see how life suddenly starts working for you rather than against you.”
+> “Greatness is a mental abstraction and a favorite fantasy of the ego. The paradox is at the foundation of greatness is honoring the small things of the present moment instead of purusing the idea of greatness. The present moment is always small in the sense that it is always simple but concealed within it lies the greatest power.”
 >
 > ― Eckhart Tolle
