@@ -14,6 +14,7 @@ This project uses GIS-based multi-criteria analysis to identify suitable habitat
 * Land cover
 * Vegetation Condition Index (VCI)
 * Distance to roads
+  * Euclidean Distance was used to calculate distance from roadways, as panthers are highly sensitive to road presence
 * Storm surge
 These variables represent key ecological and anthropogenic drivers of habitat suitability for Florida panthers
 
@@ -67,7 +68,32 @@ Each variable was reclassified into a standardized 1–5 suitability scale based
   </tbody>
 </table>
 
-### Weights
+### Create Transformed Maps for Suitability Modeler 
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
+  
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/roads.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/stormsurge.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
+
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/vegetation.png"
+    alt="Transformed Land"
+    width="400"
+    style="height: auto;">
 
 1. Land Cover- 35%
 1. Distance to Roadways- 30%
