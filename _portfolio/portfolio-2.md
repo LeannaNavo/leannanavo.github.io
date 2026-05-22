@@ -29,7 +29,7 @@ This project uses GIS and remote sensing data to assess how elevated sea surface
 ### 4. Aligning Spatial Data
 - Use Resample to ensure consistent spatial resolution between coral and temperature rasters
 
-## 5. Identifying Threatened Coral
+### 5. Identifying Threatened Coral
 - Used Raster Calculator: Threatened Coral = Coral Presence × Temperature Stress
 - Only pixels representing both coral presence and high temperature remain, represented thermally stressed coral 
 
@@ -37,14 +37,14 @@ This project uses GIS and remote sensing data to assess how elevated sea surface
 
 
 
-### Final Output (Gif) 
+## Final Output (Gif) 
 
 <figure>
   <img src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/coralthreatened.gif" alt="Threatened coral">
   <figcaption> Note: Unnaturally straight lines are due to data limitations, reflecting SST raster resolution of 0.25°</figcaption>
 </figure>
 
-### Quantified Yearly Threats to Coral Health
+## Quantified Yearly Threats to Coral Health
 
 | Year | Percent of Coral Threatened |
 |------|-----------------------------|
@@ -53,8 +53,6 @@ This project uses GIS and remote sensing data to assess how elevated sea surface
 | 2020 | 23.0                        |
 | 2022 | 23.0                        |
 | 2024 | 85.7                        |
-
---- 
 
 Thermal stress varies significantly across years, with 2024 showing a dramatic increase in coral exposure to high temperatures. The results suggest that recent warming trends may be intensifying coral vulnerability at a rapid pace
 
