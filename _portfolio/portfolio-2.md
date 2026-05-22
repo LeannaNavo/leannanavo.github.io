@@ -71,8 +71,6 @@ Thermal stress varies significantly across years, with 2024 showing a dramatic i
 
 ***
 
-Data Sources:
-
-NOAA
-
-Florida Fish and Wildlife Conservation Commission
+### Data Sources:
+* NOAA
+* Florida Fish and Wildlife Conservation Commission
