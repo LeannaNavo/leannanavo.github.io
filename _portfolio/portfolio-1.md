@@ -126,6 +126,8 @@ The resulting raster identifies areas of high and low suitability, highlighting 
 
 The habitat suitability model indicates that the most suitable habitat for the Florida panther is concentrated in South Florida, particularly around the Everglades and Big Cypress regions. Much of the rest of the state shows moderate to low suitability, with coastal and urbanized areas being especially unsuitable due to development and habitat fragmentation. The fragmented pattern of suitable habitat highlights the importance of protecting core habitats and maintaining wildlife corridors to support panther movement and population expansion.
 
+---
+
 ### Tools
 
 * Euclidean Distance
@@ -137,14 +139,10 @@ The habitat suitability model indicates that the most suitable habitat for the F
 
 ***
 
-Data Sources:
-
-Florida Department of Transportation
-
-USDA Farm Services Agency
-
-National Land Cover Database
-
-NOAA Hurricane Center
+### Data Sources:
+* Florida Department of Transportation
+* USDA Farm Services Agency
+* National Land Cover Database
+* NOAA Hurricane Center
 
 
