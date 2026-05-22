@@ -4,11 +4,21 @@ excerpt: "Click the link above for more details <br/><img src='/images/suitabili
 collection: portfolio
 ---
 
-### Research Question: 
+This project uses GIS-based multi-criteria analysis to identify suitable habitat for the endangered Florida panther (Puma concolor coryi). Environmental and anthropogenic factors including land cover, vegetation health, roadway proximity, and storm surge risk were reclassified and weighted to produce a composite habitat suitability surface. The resulting model highlights priority areas for conservation, restoration, and potential habitat expansion.
 
-Where are critical areas of protection, restoration, expansion, or reintroduction for Florida Panthers?
+---
 
-### Reclassification Table
+## Workflow
+
+### Step 1: Data Inputs
+* Land cover
+* Vegetation Condition Index (VCI)
+* Distance to roads
+* Storm surge
+These variables represent key ecological and anthropogenic drivers of habitat suitability for Florida panthers
+
+### Step 2: Reclassification 
+Each variable was reclassified into a standardized 1–5 suitability scale based on ecological relevance
 
 <table class="suitability-table">
   <thead>
