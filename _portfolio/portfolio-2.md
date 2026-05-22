@@ -56,6 +56,8 @@ This project uses GIS and remote sensing data to assess how elevated sea surface
 
 Thermal stress varies significantly across years, with 2024 showing a dramatic increase in coral exposure to high temperatures. The results suggest that recent warming trends may be intensifying coral vulnerability at a rapid pace
 
+---
+
 ### Tools
 
 * Eliminate Polygon Part Tool
