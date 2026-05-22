@@ -1,5 +1,5 @@
 ---
-title: "hermal Stress and Habitat Vulnerability of Coral Reefs in the Florida Keys"
+title: "Thermal Stress and Habitat Vulnerability of Coral Reefs in the Florida Keys"
 excerpt: "Click the link above for more details <br/><img src='/images/coralthreatened.gif' width='395'>"
 collection: portfolio
 ---
