@@ -1,6 +1,6 @@
 ---
 title: "Mapping Sneaker Shipment Data for Reverse Logistics Company"
-excerpt: "Click the link above for more details <br/><img src='/images/combinedmaps.jpeg' width='395'>"
+excerpt: "Click the link above for more details <br/><img src='/images/Maps_combined.png' width='395'>"
 collection: portfolio
 ---
 
