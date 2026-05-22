@@ -43,7 +43,6 @@ Integrated:
     width="400"
     style="height: auto;">
 
----
 
 The GIS workflow transformed raw bikeshare and transit data into a station‑level panel dataset, allowing me to estimate spatial panel regressions. The results show that bikeshare and Metrorail ridership are positively associated in central areas, suggesting a first‑/last‑mile complementarity, while relationships differ in peripheral areas.
 
