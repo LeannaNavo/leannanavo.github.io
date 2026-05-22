@@ -4,7 +4,7 @@ excerpt: "Click the link above for more details <br/><img src='/images/Maps_comb
 collection: portfolio
 ---
 
-This project uses Google Colab to map sneaker shipment activity across the United States at the ZIP Code Tabulation Area (ZCTA) level. Shipment data was aggregated and spatially joined to ZCTA boundaries to visualize geographic patterns in distribution volume and environmental impact.
+This project uses Google Colab to map sneaker shipment activity across the United States at the ZIP Code Tabulation Area (ZCTA) level. Shipment data was aggregated and spatially joined to ZCTA boundaries to visualize geographic patterns in distribution volume and quantity.
 
 ---
 
