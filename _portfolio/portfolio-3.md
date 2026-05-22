@@ -1,8 +1,4 @@
----
-title: "Air-Polluting Facilities and Respiratory Health in Florida "
-excerpt: "Click the link above for more details<br/><img src='/images/lungcancerrates&incinerator.jpg'>"
-collection: portfolio
----
+
 
 ### Research Question: 
 
