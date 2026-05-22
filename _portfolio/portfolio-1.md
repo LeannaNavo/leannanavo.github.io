@@ -16,6 +16,7 @@ This project uses GIS-based multi-criteria analysis to identify suitable habitat
 * Distance to roads
   * Euclidean Distance was used to calculate distance from roadways, as panthers are highly sensitive to road presence
 * Storm surge
+
 These variables represent key ecological and anthropogenic drivers of habitat suitability for Florida panthers
 
 ### Step 2: Reclassification 
