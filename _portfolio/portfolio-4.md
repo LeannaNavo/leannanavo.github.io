@@ -57,9 +57,6 @@ This project uses Google Colab to map sneaker shipment activity across the Unite
     width="400"
     style="height: auto;">
 
-
----
-
 These maps reveal that sneaker donation shipments are broadly distributed across the United States, with the highest concentration of participating ZCTAs located in the eastern half of the country, particularly in the Southeast, Midwest, and Northeast. Larger shipment weights and higher shipment frequencies are concentrated around major metropolitan areas, suggesting that population density and access to donation infrastructure strongly influence participation in the reverse logistics network. Comparing 2024 and 2025, the spatial distribution appears relatively consistent, although several regions show increases in shipment counts and shipment weight, indicating growing participation and expansion of the sneaker recovery program over time.
 
 ---
