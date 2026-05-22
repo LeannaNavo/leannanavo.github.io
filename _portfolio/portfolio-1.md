@@ -117,6 +117,7 @@ A weighted overlay approach was used to combine factors, with land cover and roa
 
 ## Final Suitability Model
 The resulting raster identifies areas of high and low suitability, highlighting potential zones for conservation and expansion
+
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/suitability.png"
     alt="Transformed Land"
