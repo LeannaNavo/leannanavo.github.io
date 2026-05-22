@@ -75,6 +75,7 @@ Each variable was reclassified into a standardized 1–5 suitability scale based
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
 Figure 1. Reclassified land cover suitability surface
 Higher values indicate preferred habitat types such as forest and wetlands.
 
@@ -83,6 +84,7 @@ Higher values indicate preferred habitat types such as forest and wetlands.
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
 Figure 2. Reclassified Distance to Roadways Suitability Surface
 Higher values indicate areas farther from major roadways, which are more suitable for Florida panthers due to reduced human disturbance and lower risk of vehicle collisions.
 
@@ -91,6 +93,7 @@ Higher values indicate areas farther from major roadways, which are more suitabl
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
 Figure 3. Reclassified Storm Surge Risk Suitability Surface
 Higher suitability values correspond to areas less vulnerable to coastal flooding, reflecting the preference for stable habitats not subject to frequent storm inundation.
 
@@ -99,6 +102,7 @@ Higher suitability values correspond to areas less vulnerable to coastal floodin
     alt="Transformed Land"
     width="400"
     style="height: auto;">
+
 Figure 4. Reclassified VCI Suitability Surface
 Higher values represent areas with healthier and denser vegetation, which provide better cover and prey availability for Florida panthers.
 
@@ -109,32 +113,6 @@ A weighted overlay approach was used to combine factors, with land cover and roa
 1. Distance to Roadways- 30%
 1. Vegetation Condition- 20%
 1. Storm Surge Risk- 15%
-
-### Transformed Maps for Suitability Modeler 
-
-<img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
-    alt="Transformed Land"
-    width="400"
-    style="height: auto;">
-
-<img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/roads.png"
-    alt="Transformed Land"
-    width="400"
-    style="height: auto;">
-
-<img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/stormsurge.png"
-    alt="Transformed Land"
-    width="400"
-    style="height: auto;">
-
-<img 
-    src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/vegetation.png"
-    alt="Transformed Land"
-    width="400"
-    style="height: auto;">
 
 ### Final Suitability Model
 The resulting raster identifies areas of high and low suitability, highlighting potential zones for conservation and expansion
