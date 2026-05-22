@@ -10,7 +10,7 @@ This project uses GIS-based multi-criteria analysis to identify suitable habitat
 
 ## Workflow
 
-### Step 1: Data Inputs
+### 1: Data Inputs
 * Land cover
 * Vegetation Condition Index (VCI)
 * Distance to roads
@@ -19,7 +19,7 @@ This project uses GIS-based multi-criteria analysis to identify suitable habitat
 
 These variables represent key ecological and anthropogenic drivers of habitat suitability for Florida panthers
 
-### Step 2: Reclassification 
+### 2: Reclassification 
 Each variable was reclassified into a standardized 1–5 suitability scale based on ecological relevance
 
 <table class="suitability-table">
@@ -69,7 +69,7 @@ Each variable was reclassified into a standardized 1–5 suitability scale based
   </tbody>
 </table>
 
-### Step 3: Create Transformed Maps for Suitability Modeler 
+### 3: Create Transformed Maps for Suitability Modeler 
 
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/landcover.png"
@@ -107,7 +107,7 @@ Higher suitability values correspond to areas less vulnerable to coastal floodin
 Figure 4. Reclassified VCI Suitability Surface
 Higher values represent areas with healthier and denser vegetation, which provide better cover and prey availability for Florida panthers.
 
-### Step 4: Weighted Overlay 
+### 4: Weighted Overlay 
 A weighted overlay approach was used to combine factors, with land cover and road proximity receiving the greatest weight due to their importance in panther habitat selection.
 
 1. Land Cover- 35%
@@ -115,7 +115,7 @@ A weighted overlay approach was used to combine factors, with land cover and roa
 1. Vegetation Condition- 20%
 1. Storm Surge Risk- 15%
 
-### Final Suitability Model
+## Final Suitability Model
 The resulting raster identifies areas of high and low suitability, highlighting potential zones for conservation and expansion
 <img 
     src="https://raw.githubusercontent.com/LeannaNavo/leannanavo.github.io/refs/heads/master/images/suitability.png"
